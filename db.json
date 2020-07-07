@@ -1,7 +1,9 @@
 {
  "articles":[
  {
+   "userId":1,
    "id": 1,
+   "Property Type": "One Room",
    "매물종류": "원룸, 오피스텔",
    "건물형태": "원룸형매물",
    "주소": "주소 찾기",
