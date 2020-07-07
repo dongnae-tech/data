@@ -45,9 +45,9 @@
  "users": [
    {
         "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz",
+        "name": "Hyunsoo",
+        "username": "hs",
+        "email": "hyunsoo@dongnaezip.com",
         "address": {
             "street": "Kulas Light",
             "suite": "Apt. 556",
@@ -58,12 +58,12 @@
                 "lng": "81.1496"
             }
         },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
+        "phone": "0101010101",
+        "website": "hyunsoo.org",
         "company": {
-            "name": "Romaguera-Crona",
-            "catchPhrase": "Multi-layered client-server neural-net",
-            "bs": "harness real-time e-markets"
+            "name": "Hyunsoo Inc",
+            "catchPhrase": "Multi-layered client-server brokerage",
+            "bs": "harness real-time brokers"
         }
     }
   ]
